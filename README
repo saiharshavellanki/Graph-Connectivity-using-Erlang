@@ -1,0 +1,3 @@
+How to run?
+-   erlc graphconnectivity.erl
+-   erl -noshell -s graphconnectivity start -s init stop
